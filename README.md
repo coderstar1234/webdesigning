@@ -57,7 +57,7 @@ To see web design in action, explore the examples in this repository. These exam
 - [Example 2: Image Gallery](examples/image-gallery) - Create a responsive image gallery with HTML, CSS, and JavaScript.
 - [Example 3: To-Do List App](examples/todo-list) - Build a dynamic to-do list application using HTML, CSS, and JavaScript.
 
-## Contributing
+## Contributing:
 
 We welcome contributions from the web design community. If you have resources, examples, or improvements to share, please consider contributing to this repository. Check out the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
 
