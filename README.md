@@ -13,7 +13,7 @@ Welcome to the "Web Designing with HTML, CSS, and JavaScript" repository! This r
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction:
+## Introduction:-
 
 Web design is the process of creating and styling the visual aspects of a website or web application. It involves HTML (Hypertext Markup Language) for structuring content, CSS (Cascading Style Sheets) for styling and layout, and JavaScript for interactivity. This repository is a comprehensive resource for learning, practicing, and mastering these essential web technologies.
 
