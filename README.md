@@ -49,7 +49,7 @@ JavaScript is a powerful scripting language for adding interactivity and functio
 - [DOM Manipulation](dom-manipulation.md) - Learn how to manipulate the Document Object Model (DOM) to interact with web pages.
 - [JavaScript Best Practices](javascript-best-practices.md) - Tips for writing clean and efficient JavaScript code.
 
-## Examples
+## Examples:
 
 To see web design in action, explore the examples in this repository. These examples cover various aspects of web design, from simple web pages to interactive web applications. Each example is accompanied by source code and explanations.
 
