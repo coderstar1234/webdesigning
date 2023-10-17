@@ -27,7 +27,7 @@ If you're new to web design or just want to refresh your skills, start with the 
 
 ## HTML:-
 
-HTML is the backbone of web design. It defines the structure and content of a web page. To learn HTML, refer to the following resources:
+- HTML is the backbone of web design. It defines the structure and content of a web page. To learn HTML, refer to the following resources:
 
 - [HTML Basics](html-basics.md) - An introduction to HTML elements and syntax.
 - [HTML Tags](html-tags.md) - A list of common HTML tags and their usage.
