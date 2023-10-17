@@ -51,7 +51,7 @@ JavaScript is a powerful scripting language for adding interactivity and functio
 
 ## Examples:-
 
-To see web design in action, explore the examples in this repository. These examples cover various aspects of web design, from simple web pages to interactive web applications. Each example is accompanied by source code and explanations.
+-;To see web design in action, explore the examples in this repository. These examples cover various aspects of web design, from simple web pages to interactive web applications. Each example is accompanied by source code and explanations.
 
 - [Example 1: Simple Portfolio Page](examples/simple-portfolio) - A basic HTML and CSS page for showcasing your work.
 - [Example 2: Image Gallery](examples/image-gallery) - Create a responsive image gallery with HTML, CSS, and JavaScript.
