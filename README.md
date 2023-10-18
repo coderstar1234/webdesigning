@@ -35,7 +35,7 @@ If you're new to web design or just want to refresh your skills, start with the 
 
 ## CSS:
 
--CSS is used to style and layout web pages. To get started with CSS, check out the following resources:
+- CSS is used to style and layout web pages. To get started with CSS, check out the following resources:
 
 - [CSS Basics](css-basics.md) - A guide to CSS fundamentals, including selectors, properties, and values.
 - [CSS Layout](css-layout.md) - Learn how to control the layout and positioning of elements on a page.
