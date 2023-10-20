@@ -24,7 +24,7 @@ If you're new to web design or just want to refresh your skills, start with the 
 - **HTML**: Learn how to structure the content of your web pages.
 - **CSS**: Explore how to style your web pages and control layout.
 - **JavaScript**: Discover how to add interactivity and dynamic behavior to your web pages.
-
+<hr>
 ## HTML:-
 
 - HTML is the backbone of web design. It defines the structure and content of a web page. To learn HTML, refer to the following resources:
