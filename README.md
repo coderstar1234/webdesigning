@@ -45,7 +45,7 @@ If you're new to web design or just want to refresh your skills, start with the 
 
 ## JavaScript:-
 
-JavaScript is a powerful scripting language for adding interactivity and functionality to web pages. Begin your JavaScript journey with these resources:
+- JavaScript is a powerful scripting language for adding interactivity and functionality to web pages. Begin your JavaScript journey with these resources:
 
 - [JavaScript Basics](javascript-basics.md) - An introduction to JavaScript syntax and fundamental concepts.
 - [DOM Manipulation](dom-manipulation.md) - Learn how to manipulate the Document Object Model (DOM) to interact with web pages.
