@@ -65,5 +65,5 @@ We welcome contributions from the web design community. If you have resources, e
 ## License:-
 
 - This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+<hr>
 Happy web designing! 🚀
