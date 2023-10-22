@@ -44,7 +44,7 @@ If you're new to web design or just want to refresh your skills, start with the 
 - [CSS Layout](css-layout.md) - Learn how to control the layout and positioning of elements on a page.
 - [CSS Flexbox and Grid](css-flexbox-grid.md) - Explore modern layout techniques for responsive design.
 
-## JavaScript:-
+# JavaScript:-
 
 - JavaScript is a powerful scripting language for adding interactivity and functionality to web pages. Begin your JavaScript journey with these resources:
 
