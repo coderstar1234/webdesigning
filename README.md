@@ -58,7 +58,7 @@ If you're new to web design or just want to refresh your skills, start with the 
 - [Example 1: Simple Portfolio Page](examples/simple-portfolio) - A basic HTML and CSS page for showcasing your work.
 - [Example 2: Image Gallery](examples/image-gallery) - Create a responsive image gallery with HTML, CSS, and JavaScript.
 - [Example 3: To-Do List App](examples/todo-list) - Build a dynamic to-do list application using HTML, CSS, and JavaScript.
-
+<hr>
 ## Contributing:-
 
 We welcome contributions from the web design community. If you have resources, examples, or improvements to share, please consider contributing to this repository. Check out the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
