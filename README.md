@@ -62,7 +62,7 @@ If you're new to web design or just want to refresh your skills, start with the 
 <hr>
 ## Contributing:-
 
-We welcome contributions from the web design community. If you have resources, examples, or improvements to share, please consider contributing to this repository. Check out the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
+- We welcome contributions from the web design community. If you have resources, examples, or improvements to share, please consider contributing to this repository. Check out the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
 
 ## License:-
 
