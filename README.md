@@ -38,6 +38,7 @@
 - [HTML Tags](html-tags.md) - A list of common HTML tags and their usage.
 - [HTML Best Practices](html-best-practices.md) - Tips for writing clean and semantic HTML code.
 <hr>
+
 ## CSS:
 
 - CSS is used to style and layout web pages. To get started with CSS, check out the following resources:
