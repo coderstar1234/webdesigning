@@ -23,7 +23,7 @@
 
 # Getting Started:-
 
-If you're new to web design or just want to refresh your skills, start with the basics:
+- If you're new to web design or just want to refresh your skills, start with the basics:
 
 - **HTML**: Learn how to structure the content of your web pages.
 - **CSS**: Explore how to style your web pages and control layout.
