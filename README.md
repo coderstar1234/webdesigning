@@ -54,7 +54,7 @@
 - [JavaScript Basics](javascript-basics.md) - An introduction to JavaScript syntax and fundamental concepts.
 - [DOM Manipulation](dom-manipulation.md) - Learn how to manipulate the Document Object Model (DOM) to interact with web pages.
 - [JavaScript Best Practices](javascript-best-practices.md) - Tips for writing clean and efficient JavaScript code.
-
+<hr>
 # Examples:-
 
 - To see web design in action, explore the examples in this repository. These examples cover various aspects of web design, from simple web pages to interactive web applications. Each example is accompanied by source code and explanations.
