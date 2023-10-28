@@ -4,7 +4,7 @@
 - Whether you're a beginner or an experienced developer, you'll find valuable resources and examples to help you create stunning websites and web applications.
 <hr>
 
-# Table of Contents:-
+# Table of Contents:🌸-
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
