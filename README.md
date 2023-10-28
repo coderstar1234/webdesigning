@@ -1,4 +1,4 @@
-# Web Designing with HTML, CSS, and JavaScript:-
+# Web Designing with HTML, CSS, and JavaScript💫:-
 
 - Welcome to the "Web Designing with HTML, CSS, and JavaScript" repository! This repository is a starting point for anyone interested in learning or improving their skills in web design and development using HTML, CSS, and JavaScript.
 - Whether you're a beginner or an experienced developer, you'll find valuable resources and examples to help you create stunning websites and web applications.
