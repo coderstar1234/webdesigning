@@ -73,7 +73,7 @@
 - We welcome contributions from the web design community. If you have resources, examples, or improvements to share, please consider contributing to this repository. - Check out the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
 <hr>
 
-# 🪪 licences:-
+# 🪪 LICENSE:-
 
 - This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 <hr>
